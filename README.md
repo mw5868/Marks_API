@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Marks API Page
 
 You can use the [editor on GitHub](https://github.com/mw5868/Marks_API/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Click [HERE](www.bbc.co.uk) to go to the BBC website
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
